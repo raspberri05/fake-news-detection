@@ -3,10 +3,13 @@
 ## About
 This project has two parts to it. 
 
-1) Getting Data - Data is scraped from PolitiFact that includes how truthful political statements made by political figures or social media is. This data is put into a csv data for ML purposes.
-2) Machine Learning - The dataset will be used to create a model that can help figure out how truthful news is. I haven't gotten to this part yet, but I will most likely use Tensorflow.
+### Data
+Data is scraped from PolitiFact that includes how truthful political statements/comments made by political figures or social media are. This data is saved in a csv file.
 
-The dataset is also provided in this repository for any use by developers/researchers that complies with the open source license of this repository.
+The dataset is provided in this repository for any use by developers/researchers as long as the usage complies with the open source license of this repository.
+
+### Machine Learning
+The dataset will be used to create a model that can help figure out how truthful political news/commentary is. I haven't gotten to this stage, but I most likely will be using TensorFlow.
 
 ## Dataset
 Packages required to run the notebooks are defined in `requirements.txt`. 
