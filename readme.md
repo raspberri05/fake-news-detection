@@ -1,4 +1,4 @@
-# fake-news-detection
+# Fake News Detection
 
 ## About
 This project has two parts to it. 
