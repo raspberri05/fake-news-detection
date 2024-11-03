@@ -1,3 +1,4 @@
 jupyterlab
 beautifulsoup4
 pandas
+black[jupyter]
