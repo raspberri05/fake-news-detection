@@ -27,9 +27,4 @@ The dataset will be used to create a model that can help figure out how truthful
 Packages required to run the code is defined in `requirements.txt`. 
 If you are using pip, you can install these dependencies with the command `pip install -r requirements.txt`. Using a python environment such as conda or venv is recommended
 
-This dataset was generated on November  2, 2024. You can run `main.py` to regnerate the dataset with the newest content from PolitiFact. The script may take up to a minute to run, and does not produce output in the console until completion.
-
-
-month - the month the quote was said
-
-year - the year the quote was said
+This dataset was generated on November 2, 2024. You can run `main.py` to regnerate the dataset with the newest content from PolitiFact. The script may take up to a minute to run, and does not produce output in the console until completion.
