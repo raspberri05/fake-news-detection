@@ -12,13 +12,13 @@ Data is scraped from PolitiFact that includes how truthful political statements/
 
 ##### Columns
 
-Ruling - the ruling of truthfulness
+ruling - the ruling of truthfulness
 
-Name - name of person or site making the statement
+name - name of person or group making the statement
 
-Quote - the statement itself
+quote - the statement itself
 
-Description - information about where this quote is from and the date it was said
+description - information about where this quote is from and the date it was said
 
 ### Machine Learning
 The dataset will be used to create a model that can help figure out how truthful political news/commentary is. I am working on cleaning the data and processing categorical data, and plan to start with using Tensorflow to train a model.
@@ -30,3 +30,6 @@ If you are using pip, you can install these dependencies with the command `pip i
 This dataset was generated on November  2, 2024. You can run `main.py` to regnerate the dataset with the newest content from Politifact. The script may take up to a minute to run, and does not produce output in the console until completion.
 
 
+month - the month the quote was said
+
+year - the year the quote was said
