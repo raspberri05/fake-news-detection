@@ -1,7 +1,7 @@
 # Fake News Detection
 
 ## About
-This project has two parts to it. 
+This project has two parts to it - gathering data, and using the data to generate ml models
 
 ### Data
 Data is scraped from PolitiFact that includes how truthful political statements/comments made by political figures or social media are. This data is saved to `politifact.csv`.
